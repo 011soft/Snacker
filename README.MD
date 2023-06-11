@@ -20,6 +20,7 @@ Currently, the database is designed to track the following information:
   - Major and Minor Allergens
   - Dietary restrictions
 - Common pairings
+- Labels, both required and not, like Non-GMO labels
 
 For more information on any of these datapoints, please see [the wiki](https://github.com/shawnshyguy/Snacker/wiki).
 
